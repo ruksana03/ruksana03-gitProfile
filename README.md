@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruksana03
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data science and web development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ruksana01official@gmail.com
