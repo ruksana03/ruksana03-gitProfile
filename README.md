@@ -1,7 +1,12 @@
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZAH7XKs0Mv3zgG1R2j_AHXauPYDMuExlhw&usqp=CAU)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZAH7XKs0Mv3zgG1R2j_AHXauPYDMuExlhw&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Ruksana</h1>
+<h1 align="center">👀 I’m interested in Data science and web development</h1>
+<h1 align="center">🌱 I’m currently learning Web Development</h1>
+<h1 align="center">💞️ I’m looking to collaborate on ...</h1>
+<h1 align="center">📫 How to reach me ruksana01official@gmail.com</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZAH7XKs0Mv3zgG1R2j_AHXauPYDMuExlhw&usqp=CAU">
 
