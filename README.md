@@ -1,10 +1,10 @@
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZAH7XKs0Mv3zgG1R2j_AHXauPYDMuExlhw&usqp=CAU)
+![MasterHead](https://raw.githubusercontent.com/ruksana03/ruksana03/main/image/Ruksana.png)
 
-<h1 align="center">Hi 👋, I'm Ruksana</h1>
+<h1 align="center">Hi 👋, I'm a MERN stack developer and data scientist 🚀</h1>
 
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruksana03&theme=dayfox&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri" alt="GitHub Streak" /></a>
 
