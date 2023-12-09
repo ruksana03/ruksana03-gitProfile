@@ -1,7 +1,7 @@
 
-![MasterHead](https://raw.githubusercontent.com/ruksana03/ruksana03/main/image/Ruksana.png)
+![MasterHead](https://raw.githubusercontent.com/ruksana03/ruksana03/main/image/ruksana03.png)
 
-<h1 align="center">Hi 👋, I'm a MERN stack developer and data scientist 🚀</h1>
+<h1 align="center">Hi 👋, I'm a MERN Stack Developer and Data Scientist 🚀</h1>
 
 
 <!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
