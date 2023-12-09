@@ -5,7 +5,12 @@
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZAH7XKs0Mv3zgG1R2j_AHXauPYDMuExlhw&usqp=CAU">
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruksana03&theme=dayfox&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri" alt="GitHub Streak" /></a>
+
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/ruksana03/ruksana03/main/image/dp.jpg" style="border-radius: 50%;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruksana03&label=Profile%20views&color=0e75b6&style=flat" alt="ruksana03" /> </p>
 
@@ -31,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruksana03&show_icons=true&locale=en" alt="ruksana03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruksana03&" alt="ruksana03" /></p>
+
