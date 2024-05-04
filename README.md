@@ -1,5 +1,5 @@
 
-![MasterHead](https://raw.githubusercontent.com/ruksana03/ruksana03/main/image/Ruksana.png)
+![MasterHead](https://github.com/ruksana03/ruksana03/blob/main/image/Ruksana.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm a MERN Stack Developer and Data Scientist 🚀</h1>
 
