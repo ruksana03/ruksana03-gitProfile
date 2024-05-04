@@ -1,7 +1,7 @@
 
 ![MasterHead](https://github.com/ruksana03/ruksana03/blob/main/image/Ruksana.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm a MERN Stack Developer and Data Scientist 🚀</h1>
+<h1 align="center">Hi 👋, I'm a Junior Front-End Developer, Data Scientist & Researcher 🚀</h1>
 
 
 <!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
@@ -9,7 +9,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruksana03&theme=dayfox&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri" alt="GitHub Streak" /></a>
 
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/ruksana03/ruksana03/main/image/dp.jpg" style="border-radius: 50%;">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/ruksana03/ruksana03/ef647ea9527bdb91b95c58e3b621e201ebe2bd92/image/React-Dark.svg" style="border-radius: 50%;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruksana03&label=Profile%20views&color=0e75b6&style=flat" alt="ruksana03" /> </p>
